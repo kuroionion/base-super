@@ -1,0 +1,5 @@
+Day 1:
+Belajar Git dan GitHub
+
+Day 2:
+Mulai commit project kecil
