@@ -1,0 +1,3 @@
+Log:
+- Created repository
+- First commit done
